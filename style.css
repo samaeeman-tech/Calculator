@@ -49,3 +49,7 @@ button:hover {
 button:active {
     background-color: #ddd;
 }
+
+.number-button {
+    color: blue; /* Adding blue color to number buttons */
+}
